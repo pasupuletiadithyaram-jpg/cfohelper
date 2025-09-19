@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/3d129ff2-acc1-406f-a84a-88735ad09014
+**URL**: https://insightful-budgeter.lovable.app/
 
 ## How can I edit this code?
 
